@@ -9,7 +9,7 @@ To design a data-driven dashboard that tracks inventory KPIs and supports decisi
 🗂️ Data Source
 Public dataset from Kaggle (Supply Chain / Inventory dataset)
 
-About this file
+🗂️ About this file
 Here is a dataset we collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products. Below are all the features in the dataset:
 
 - Product Type
